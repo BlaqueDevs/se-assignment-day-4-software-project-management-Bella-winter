@@ -77,18 +77,6 @@ Why is a (WBS) useful? 1.It Improves Planning by breaking down complex projects 
 
 
 
-
-
-   
-
-
-
-
-   
-
-
-
-
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
